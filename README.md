@@ -53,5 +53,6 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+<img width="1919" height="1135" alt="1781576874971965560095030292716" src="https://github.com/user-attachments/assets/53e4219f-c85e-4baf-9086-a71472c1467b" />
 
 ### RESULT: 
